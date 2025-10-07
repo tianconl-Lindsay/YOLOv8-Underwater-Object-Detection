@@ -51,7 +51,3 @@ This project uses **YOLOv8** for detecting underwater objects such as starfish, 
 
 This repository is **for documentation and educational purposes only**. No code is provided. Images and reports illustrate the workflow, preprocessing steps, and evaluation results of the YOLOv8 underwater object detection project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) (or any suitable license).  
-Please do not use the images or report for commercial purposes without permission.
